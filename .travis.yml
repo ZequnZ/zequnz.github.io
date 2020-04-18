@@ -14,5 +14,7 @@ deploy:
   github-token: $GH_TOKEN
   keep-history: true
   on:
-    target_branch: master
+    all_branches: true
+  target_branch: master
   local-dir: public
+  
