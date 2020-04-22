@@ -1,6 +1,0 @@
-[submodule "theme_next"]
-path = themes/next
-url = https://github.com/theme-next/hexo-theme-next.git
-[submodule "themes/next-plusz"]
-	path = themes/next-plusz
-	url = git@github.com:ZequnZ/hexo-theme-next.git
