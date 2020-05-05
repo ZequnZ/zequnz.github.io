@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>What&#39;s my title</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  <subtitle>im thinking</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-05T07:42:35.296Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>PlusZ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>咸鱼胡诌</title>
+    <link href="http://yoursite.com/2020/05/05/say-something/"/>
+    <id>http://yoursite.com/2020/05/05/say-something/</id>
+    <published>2020-05-05T08:35:44.000Z</published>
+    <updated>2020-05-05T07:42:35.296Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;不久前，为了认真搭个博客，花了点钱买了个域名，心想下了点本，那这次肯定成了。然后搭了个雏形，就再没动过。&lt;br&gt;我们常常会用这种方式让内心感到藉慰，但实际上关键的还是行动力。虽然打算的一步一步完善网站没有做到，拜最近休假时间多所赐。在其他方面我的确在朝着好的方向迈进（至少我
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/04/21/hello-world/"/>
+    <id>http://yoursite.com/2020/04/21/hello-world/</id>
+    <published>2020-04-21T16:35:44.000Z</published>
+    <updated>2020-05-05T07:42:35.296Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;曾经搭过一个博客，后来渐渐忘了更新。是时候再以一种全新的方式把它再拾起来了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
